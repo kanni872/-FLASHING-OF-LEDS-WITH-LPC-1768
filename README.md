@@ -97,7 +97,3 @@ Thus,an embedded C program is written in order to interface PWM with LPC1768.
 
 
 
-
-
-
-
